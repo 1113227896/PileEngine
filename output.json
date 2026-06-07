@@ -1,0 +1,16 @@
+{
+  "design_loads": {
+    "axial_load": 1200.0,
+    "moment": 150.0,
+    "shear": 80.0
+  },
+  "soil_layers_summary": {
+    "soil_properties_count": 3,
+    "borehole_count": 2
+  },
+  "summary": {
+    "total_thickness_m": 10.3,
+    "max_friction_angle_deg": 32.0,
+    "avg_unit_weight_kN_m3": 18.233333333333334
+  }
+}
